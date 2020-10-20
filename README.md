@@ -1,0 +1,2 @@
+# customer_purchase_and_behaviour_analytics
+Customer Segmentation andBusiness analytics on Purchasing Behaviour
